@@ -1,5 +1,5 @@
-v= input("")
-if (c=='a', 'e', 'i', 'o', 'u'):
-   print("%s is a vowel."%c)
+v= input("'a', 'e', 'i', 'o', 'u'")
+if (v=='a', 'e', 'i', 'o', 'u'):
+   print("vowel")
 else:
-   print("%s is a consonant."%v)
+   print("consonant")
