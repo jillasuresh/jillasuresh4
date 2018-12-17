@@ -1,4 +1,2 @@
-i=0
-while i<n:
-print("hello")
-i+=1
+for i in range(n):
+   print("hello world")
