@@ -1,6 +1,5 @@
-v= input("Input a letter of the alphabet: ")
-
+v= input("")
 if (c=='a', 'e', 'i', 'o', 'u'):
-	print("%s is a vowel."%c)
+   print("%s is a vowel."%c)
 else:
-	print("%s is a consonant."%v)
+   print("%s is a consonant."%v)
