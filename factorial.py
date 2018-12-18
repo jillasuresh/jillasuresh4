@@ -9,4 +9,4 @@ if (n<0):
 elif n==0:
    print("Factorial of 0 is 1")
 else:
-   print("factorial(n)")
+   print("Factorial of", n,"is:",factorial(n)")
