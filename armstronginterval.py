@@ -1,6 +1,4 @@
-lower case=int(input(""))
-upper case=int(input(""))
- for n in range(lower case,upper case+1):
+ for n in range(1,100):
   sum = 0
   temp=n
    while temp>0:
