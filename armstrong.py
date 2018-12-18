@@ -6,6 +6,6 @@ while temp > 0:
    sum+= digit**3
    temp//=10
 if n==sum:
-  print(n,"yes")
+  print("yes")
 else:
-  print(n,"no")
+  print("no")
