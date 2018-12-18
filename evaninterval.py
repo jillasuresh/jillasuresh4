@@ -1,4 +1,4 @@
-upper case=int(input(""))
-for i in range(upper case+1):
+num=int(input(""))
+for i in range(num+1):
   if(i%2==0):
       print(i)
