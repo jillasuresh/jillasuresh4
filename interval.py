@@ -1,5 +1,5 @@
-lower=int(input(""))
-upper=int(input(""))
-for i in range(lower,upper+1):
+lower case=int(input(""))
+upper case=int(input(""))
+for i in range(lower case,upper case+1):
   if(i%2!=0):
       print(i)
