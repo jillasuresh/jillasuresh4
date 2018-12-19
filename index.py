@@ -11,8 +11,8 @@ n=len(arr)
 reorder(arr,index,n) 
 print("Reordered array is:") 
 for i in range(0,n): 
-    print(arr[i],end=" ") 
+    print(arr[i],end="") 
 print("\nModified Index array is:") 
 for i in range(0,n): 
-    print(index[i],end=" ") 
+    print(index[i],end="") 
   
