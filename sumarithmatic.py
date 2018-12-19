@@ -1,4 +1,4 @@
-def sumOfAP( a, d,n) : 
+def sumOfAP(a,d,n) : 
     sum=0
     i=0
     while i<n: 
@@ -6,7 +6,7 @@ def sumOfAP( a, d,n) :
         a=a+d 
         i=i+1
     return sum 
-n=20
-a=2.5
-d=1.5
+n=
+a=
+d=
 print(sumOfAP(a, d, n)) 
