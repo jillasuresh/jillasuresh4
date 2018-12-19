@@ -5,5 +5,5 @@ def sortit(arr,n):
      arr=[10,7,9,2,8,3,5,4,6,1] 
      n=len(arr) 
     sortit(arr,n) 
-   for i in range(n): 
+    for i in range(n): 
       print(arr[i],end=" ") 
