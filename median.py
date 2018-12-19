@@ -1,6 +1,6 @@
 def findMean(a,n): 
   sum=0
-     for i in range(0,n): 
+  for i in range(0,n): 
         sum += a[i] 
        return float(sum/n) 
   def findMedian(a,n): 
